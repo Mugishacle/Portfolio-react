@@ -25,8 +25,8 @@ Image shows example of transaction working away from network.
 
 -----
 ## Tech Used 
-- Node js
 - React
+- Node.js
 
 
 ## User Story
